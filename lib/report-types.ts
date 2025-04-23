@@ -1,0 +1,17 @@
+export const reportTypes = [
+  { value: "natal", label: "Natal Chart Report (Psychological Profile)" },
+  { value: "karmic", label: "Karmic Blueprint Report" },
+  { value: "soul-contract", label: "Soul Contract & Past Life Report" },
+  { value: "love", label: "Love & Compatibility (Synastry + Composite)" },
+  { value: "career", label: "Career & Vocation Blueprint" },
+  { value: "spiritual", label: "Spiritual Awakening & Life Purpose Report" },
+  { value: "transits", label: "Transits & Progressions Forecast" },
+  { value: "saturn", label: "Saturn Return Survival Guide" },
+  { value: "twin-flame", label: "Twin Flame / Soulmate Report" },
+  { value: "astrocartography", label: "Astrocartography (Location-Based Analysis)" },
+  { value: "chiron", label: "Childhood Wounds & Chiron Healing" },
+  { value: "ancestral", label: "Family / Ancestral Karma Report" },
+  { value: "shadow", label: "Shadow Self / Unconscious Mind Analysis" },
+  { value: "rising", label: "Rising Sign Deep Dive" },
+  { value: "relationship", label: "Relationship Patterns (Venus & Mars Influence)" },
+]
